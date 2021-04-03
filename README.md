@@ -35,6 +35,6 @@
 
 <a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:avinash201199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/michael201199?igshid=lik6zyqpltij"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/michael201199/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=avinash201199&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
