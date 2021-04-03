@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I am 3rd year student, pursuing Bachelor of Technology in Computer Science. I do competitive coding and explore Data Science concepts. I enjoy collaborating with people on works of similar interest. I like dancing,watching movies, reading novels, playing Chess and badminton.
