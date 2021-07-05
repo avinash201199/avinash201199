@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi World, I'm Avinsah 👋
 
 <p align="center">
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 </p>
+
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
