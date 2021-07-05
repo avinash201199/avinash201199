@@ -1,4 +1,6 @@
-### Hi World, I'm Avinash 👋 Scroll down to check my profile
+### Hi World, I'm Avinash 👋 
+
+-----
 
 <p align="center">
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
@@ -18,8 +20,7 @@
 ✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1GJiJFlAHwLOWEGCJgxCqJjsnQbwZNP9q/view) for more details about work experience.
 
-
-
+-----
 ### 📫 &nbsp; How to reach me:
 
 
@@ -27,6 +28,7 @@
 <a href="mailto:avinash201199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/michael201199/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+-----  
  ### Languages and Tools
 
 <p>
