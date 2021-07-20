@@ -12,7 +12,7 @@
 [![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm engineering cse student. I do competitive coding and exploring Data Science concepts these days. I enjoy collaborating with people on works of similar interest. I like dancing,watching movies, reading novels, playing Chess and badminton.
+💡 &nbsp; Hello everyone,I'm engineering cse student. I do competitive coding and exploring Data Science concepts these days. I enjoy collaborating with people on works of similar interest. 
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
