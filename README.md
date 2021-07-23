@@ -31,12 +31,12 @@
 <a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  
-
+<h1 align="center">Projects</h1>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Dynamic Website](http://arisesociety.org/)   | Project on developing a fully working dynamic website using PHP and MySQL for the NGO.  [http://arisesociety.org/](http://arisesociety.org/)        | 
-| [Tribute-To-Contributors](https://github.com/avinash201199/Python-Projects/blob/main/Tic_Tac_Toe.py) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
+| [Tic Tac Toe](https://github.com/avinash201199/Python-Projects/blob/main/Tic_Tac_Toe.py) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
 | [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
 
  ### Languages and Tools
