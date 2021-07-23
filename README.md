@@ -40,7 +40,8 @@
 | [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
 
 <hr>
- ### Languages and Tools
+
+### Languages and Tools
 
 <p>
  
