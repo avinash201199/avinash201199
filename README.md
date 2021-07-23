@@ -82,4 +82,4 @@
 
 <img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=avinash201199&hide=java&layout=compact&theme=dark" width="46%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&)"><img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
