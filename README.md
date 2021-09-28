@@ -31,6 +31,17 @@
 <a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  
+<h1 align="center">Repositories to contribute</h1>
+
+| Repository Name      | Description | 
+| :---:        |    :----   |  
+| [DSA-Questions](https://github.com/avinash201199/DSA-Questions)   | Collection of data structure and algorithms questions  [http://arisesociety.org/](http://arisesociety.org/)        | 
+| [Meme Generator](https://avinash201199.github.io/MemeGenerator/) | This is a React js project , using this website you can create famouse memes only by adding words and you cat download it to your system. |
+| [Tic Tac Toe](https://github.com/avinash201199/Python-Projects/blob/main/Tic_Tac_Toe.py) | A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does |
+| [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
+
+<hr>
+-----  
 <h1 align="center">Projects</h1>
 
 | Project Name      | Description | 
