@@ -31,7 +31,7 @@
 <a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  
-<h1 align="center">Repositories to contribute in Hacktoberfest</h1>
+<h1 align="center">Repositories to contribute in Hacktoberfest 🤩</h1>
 
 | Repository Name      | Description | 
 | :---:        |    :----   |  
