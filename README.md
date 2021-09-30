@@ -35,6 +35,7 @@
 
 | Repository Name      | Description | 
 | :---:        |    :----   |  
+| [Hacktoberfest Guide](https://github.com/avinash201199/Hacktoberfest-Guide)    | Beginner's guide to Hacktoberfest and contains list of repositories where you can contribute.
 | [DSA Questions](https://github.com/avinash201199/DSA-Questions)      | Collection of data structure and algorithms questions.You can contribute by adding dsa questions.       
 | [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
 | [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
