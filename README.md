@@ -31,17 +31,6 @@
 <a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  
-<h1 align="center">Repositories to contribute in Hacktoberfest 🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Hacktoberfest Guide](https://github.com/avinash201199/Hacktoberfest-Guide)    | Beginner's guide to Hacktoberfest and contains list of repositories where you can contribute.
-| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
-
 
 <hr>
 
@@ -55,6 +44,19 @@
 | [Personal Portfolio](https://avinash201199.github.io/Portfolio/) | This is my personal personal-portfolio website. Have a look [https://avinash201199.github.io/Portfolio/](https://avinash201199.github.io/Portfolio/) |
 
 <hr>
+
+<h1 align="center">Repositories to contribute in Hacktoberfest 🤩</h1>
+
+| Repository Name      | Description | 
+| :---:        |    :----   |  
+| [Hacktoberfest Guide](https://github.com/avinash201199/Hacktoberfest-Guide)    | Beginner's guide to Hacktoberfest and contains list of repositories where you can contribute.
+| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
+| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
+| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
+| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
+| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
+
+
 
 ### Languages and Tools
 
