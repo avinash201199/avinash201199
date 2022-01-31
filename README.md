@@ -108,7 +108,7 @@
 
 ## Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/avinash201199/avinash201199/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
