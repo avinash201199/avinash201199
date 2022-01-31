@@ -97,8 +97,18 @@
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  </div>
+ 
+ 
 
 <img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
+
+## Just a snake eating my contributions 🐍
+<p align='center'>
+<img src="https://github.com/avinash201199/avinash201199/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+<hr>
+<br>
