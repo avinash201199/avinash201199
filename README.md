@@ -54,10 +54,10 @@
  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" > 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=great-gatsby" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=car-price-prediction&show_icons=true&theme=great-gatsby" >
 
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=hack4women&show_icons=true&theme=great-gatsby" >
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=weather-app&show_icons=true&theme=great-gatsby" >
 
 
 
