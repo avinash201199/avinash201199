@@ -62,13 +62,13 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Letter-Generator&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Online-WhiteBoard&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Twitter_Clone&show_icons=true&theme=great-gatsby">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
   
 </di>
 
