@@ -52,7 +52,7 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Arjditor&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" > 
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=great-gatsby" >
 
