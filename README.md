@@ -48,6 +48,30 @@
 
 <hr>
 
+### Some of my Projects 👨‍💻
+</div>
+<div  align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Arjditor&show_icons=true&theme=great-gatsby" > 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=MediBoard&show_icons=true&theme=great-gatsby" >
+
+
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=hack4women&show_icons=true&theme=great-gatsby" >
+
+
+
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Letter-Generator&show_icons=true&theme=great-gatsby"> 
+  
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Online-WhiteBoard&show_icons=true&theme=great-gatsby"> 
+  
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydip1235&repo=Twitter_Clone&show_icons=true&theme=great-gatsby">
+  
+</di>
+
 <h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
 
 | Repository Name      | Description | 
