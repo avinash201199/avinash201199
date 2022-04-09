@@ -20,7 +20,7 @@
 ✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1K4-g2LlUJFHv-JzBtrBBSeBOUiRN1-iQ/view?usp=sharing) for more details about work experience.
 
-### If my repository is helpful for your then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
 -----
 ### 📫 &nbsp; How to reach me:
