@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+![image](https://user-images.githubusercontent.com/61057666/169029595-e0d5a2be-a47a-41fb-8d80-2aae8d308a38.png)
 </p>
 
 -----
