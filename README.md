@@ -38,6 +38,18 @@
 -----  
 
 
+<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+
+| Repository Name      | Description | 
+| :---:        |    :----   |  
+| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
+| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
+| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
+| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
+| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
+
+
+
 
 <h1 align="center">Projects</h1>
 
@@ -63,17 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
   
 </div>
-
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Hacktoberfest Guide](https://github.com/avinash201199/Hacktoberfest-Guide)    | Beginner's guide to Hacktoberfest and contains list of repositories where you can contribute.
-| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
 
 
 
