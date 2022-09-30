@@ -62,7 +62,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
   
-</di>
+</div>
 
 <h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
 
