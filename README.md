@@ -46,7 +46,7 @@
 | [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
 | [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
 | [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-| [Python-Projects](https://github.com/avinash201199/Python-projects-) | This repository contains Python project to contribute |
+
 
 
 
