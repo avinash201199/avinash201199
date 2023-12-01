@@ -56,7 +56,7 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" > 
+ <a href="https://avinash201199.github.io/Avinash-Singh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" ></a>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=car-price-prediction&show_icons=true&theme=great-gatsby" >
 
