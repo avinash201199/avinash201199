@@ -14,13 +14,12 @@
 [![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. Love to code  , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
+🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 ✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) for more details about my work experience.
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
