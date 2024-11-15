@@ -19,7 +19,6 @@
 🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
