@@ -38,13 +38,16 @@
 
 <h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
 
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Competition List](https://github.com/avinash201199/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/avinash201199/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/avinash201199/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-
+| Repo Name | URL | Tech Stack |
+|-----------|-----|------------|
+| Profile README Templates | [Link](https://github.com/avinash201199/profile-readme-templates) | HTML, CSS, Markdown |
+| Stopwatch | [Link](https://github.com/avinash201199/stopwatch) | HTML, CSS, JavaScript |
+| Login-Signup Templates | [Link](https://github.com/avinash201199/Login-Signup-templates) | HTML, CSS |
+| Meme Generator | [Link](https://github.com/avinash201199/MemeGenerator) | HTML, CSS, JavaScript |
+| Weather App | [Link](https://github.com/avinash201199/weather-app) | HTML, CSS, JavaScript, API |
+| My Gallery 4u | [Link](https://github.com/avinash201199/My-Gallery-4u) | HTML, CSS, JavaScript |
+| Memory Game | [Link](https://github.com/avinash201199/Memory-Game) | HTML, CSS, JavaScript |
+| Free Programming Books | [Link](https://github.com/avinash201199/Free-programming-books) | Various |
 
 
 
