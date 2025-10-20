@@ -40,7 +40,6 @@
 
 | Repo Name | URL | Tech Stack |
 |-----------|-----|------------|
-| Profile README Templates | [Link](https://github.com/avinash201199/profile-readme-templates) | HTML, CSS, Markdown |
 | Stopwatch | [Link](https://github.com/avinash201199/stopwatch) | HTML, CSS, JavaScript |
 | Login-Signup Templates | [Link](https://github.com/avinash201199/Login-Signup-templates) | HTML, CSS |
 | Meme Generator | [Link](https://github.com/avinash201199/MemeGenerator) | HTML, CSS, JavaScript |
